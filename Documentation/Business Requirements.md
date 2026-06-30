@@ -62,6 +62,326 @@ The dashboard will include:
 
 ---
 
+# Business Rules
+
+## Company
+
+ElectroMart India Pvt. Ltd. is a fictional retail electronics company operating across India.
+
+The company sells products through physical retail stores and online channels.
+
+---
+
+## Regions
+
+North
+
+South
+
+East
+
+West
+
+Central
+
+---
+
+## Business Hours
+
+10:00 AM – 9:00 PM
+
+---
+
+## Sales Pattern
+
+Sales are generally higher:
+
+- Weekends
+- Festivals
+- Month End
+- Financial Year End
+
+---
+
+## Festival Season
+
+Higher sales during
+
+- Republic Day
+- Independence Day
+- Diwali
+- Christmas
+- New Year
+
+---
+
+## Payment Preference
+
+Expected Distribution
+
+UPI - 45%
+
+Credit Card - 25%
+
+Debit Card - 15%
+
+Cash - 10%
+
+EMI - 3%
+
+Net Banking - 2%
+
+---
+
+## Customer Segments
+
+Retail
+
+Corporate
+
+SME
+
+Government
+
+Education
+
+---
+
+## Product Categories
+
+Mobiles
+
+Laptops
+
+Tablets
+
+TVs
+
+Home Appliances
+
+Kitchen Appliances
+
+Gaming
+
+Accessories
+
+Audio Devices
+
+Smart Watches
+
+---
+
+## Discount Rules
+
+Accessories
+
+5–20%
+
+Mobiles
+
+0–10%
+
+Laptops
+
+5–15%
+
+TVs
+
+10–25%
+
+Appliances
+
+5–30%
+
+---
+
+## Business Objective
+
+Increase Revenue
+
+Improve Profit
+
+Increase Customer Retention
+
+Reduce Discount Leakage
+
+Improve Regional Performance
+
+---
+
+## Customer Segments
+
+| Segment | Description |
+|----------|-------------|
+| Retail | Individual customers |
+| Corporate | Companies purchasing in bulk |
+| SME | Small and Medium Enterprises |
+| Government | Government departments |
+| Education | Schools, Colleges and Universities |
+
+---
+
+## Payment Modes
+
+| Payment Mode | Expected Usage |
+|--------------|---------------:|
+| UPI | 45% |
+| Credit Card | 25% |
+| Debit Card | 15% |
+| Cash | 10% |
+| EMI | 3% |
+| Net Banking | 2% |
+
+---
+
+## Product Categories
+
+| Category | Sub Category |
+|-----------|--------------|
+| Mobiles | Android Phones |
+| Mobiles | iPhones |
+| Laptops | Business |
+| Laptops | Gaming |
+| Tablets | Android Tablets |
+| Tablets | iPads |
+| Televisions | LED TVs |
+| Televisions | OLED TVs |
+| Audio | Earbuds |
+| Audio | Bluetooth Speakers |
+| Audio | Headphones |
+| Appliances | Refrigerators |
+| Appliances | Washing Machines |
+| Appliances | Air Conditioners |
+| Accessories | Chargers |
+| Accessories | Power Banks |
+| Accessories | Smart Watches |
+
+---
+
+## Brands
+
+### Mobiles
+
+Apple
+
+Samsung
+
+OnePlus
+
+Xiaomi
+
+Realme
+
+Nothing
+
+Motorola
+
+Vivo
+
+Oppo
+
+---
+
+### Laptops
+
+Dell
+
+HP
+
+Lenovo
+
+Apple
+
+Asus
+
+Acer
+
+MSI
+
+---
+
+### Audio
+
+Boat
+
+Sony
+
+JBL
+
+Bose
+
+Skullcandy
+
+---
+
+### Appliances
+
+LG
+
+Whirlpool
+
+Bosch
+
+Samsung
+
+Haier
+
+IFB
+
+---
+
+### TVs
+
+Sony
+
+LG
+
+Samsung
+
+Xiaomi
+
+TCL
+
+---
+
+## Regions
+
+North
+
+South
+
+East
+
+West
+
+Central
+
+---
+
+# Dashboard KPIs
+
+Total Revenue
+
+Total Profit
+
+Profit Margin
+
+Orders
+
+Customers
+
+Products
+
+Average Order Value
+
+Top Category
+
+Top Brand
+
+Target Achievement
+
+
+
 ## Tools Used
 
 - Microsoft Excel

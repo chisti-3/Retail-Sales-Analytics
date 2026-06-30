@@ -24,3 +24,35 @@
 
 ## Phase 6
 - GitHub Documentation
+
+# Data Flow
+
+Raw CSV Files
+
+↓
+
+Power Query
+
+↓
+
+Data Cleaning
+
+↓
+
+Power Pivot
+
+↓
+
+Relationships
+
+↓
+
+Pivot Tables
+
+↓
+
+Interactive Dashboard
+
+↓
+
+Business Insights
