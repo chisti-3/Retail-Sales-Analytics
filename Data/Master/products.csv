@@ -1,1 +1,271 @@
-Product_ID	Product_Name	Brand	Category	Sub_Category	Cost_Price	Selling_Price	GST	Supplier
+Product_ID,Product_Name,Brand,Category,Sub_Category,Cost_Price,Selling_Price
+PROD0001,Samsung Android Phones Model 1,Samsung,Mobiles,Android Phones,44695,57789.28
+PROD0002,Samsung Android Phones Model 2,Samsung,Mobiles,Android Phones,11259,12904.24
+PROD0003,Samsung Android Phones Model 3,Samsung,Mobiles,Android Phones,9210,11939.95
+PROD0004,Samsung Android Phones Model 4,Samsung,Mobiles,Android Phones,30943,36354.99
+PROD0005,Samsung Android Phones Model 5,Samsung,Mobiles,Android Phones,20831,26982.37
+PROD0006,Samsung Android Phones Model 6,Samsung,Mobiles,Android Phones,35834,46011.89
+PROD0007,Samsung Android Phones Model 7,Samsung,Mobiles,Android Phones,24664,28224.04
+PROD0008,Samsung Android Phones Model 8,Samsung,Mobiles,Android Phones,37430,46556.44
+PROD0009,Samsung Android Phones Model 9,Samsung,Mobiles,Android Phones,24659,28519.69
+PROD0010,Samsung Android Phones Model 10,Samsung,Mobiles,Android Phones,14084,15870.47
+PROD0011,OnePlus Android Phones Model 1,OnePlus,Mobiles,Android Phones,9625,11759.72
+PROD0012,OnePlus Android Phones Model 2,OnePlus,Mobiles,Android Phones,18452,21533.35
+PROD0013,OnePlus Android Phones Model 3,OnePlus,Mobiles,Android Phones,11715,14480.86
+PROD0014,OnePlus Android Phones Model 4,OnePlus,Mobiles,Android Phones,15630,18248.67
+PROD0015,OnePlus Android Phones Model 5,OnePlus,Mobiles,Android Phones,36220,44902.03
+PROD0016,OnePlus Android Phones Model 6,OnePlus,Mobiles,Android Phones,36963,41672.71
+PROD0017,OnePlus Android Phones Model 7,OnePlus,Mobiles,Android Phones,20983,25081.01
+PROD0018,OnePlus Android Phones Model 8,OnePlus,Mobiles,Android Phones,36815,43191.66
+PROD0019,OnePlus Android Phones Model 9,OnePlus,Mobiles,Android Phones,40242,45500.21
+PROD0020,OnePlus Android Phones Model 10,OnePlus,Mobiles,Android Phones,36042,40449.78
+PROD0021,Xiaomi Android Phones Model 1,Xiaomi,Mobiles,Android Phones,19367,22956.5
+PROD0022,Xiaomi Android Phones Model 2,Xiaomi,Mobiles,Android Phones,29995,35338.31
+PROD0023,Xiaomi Android Phones Model 3,Xiaomi,Mobiles,Android Phones,21248,26324.86
+PROD0024,Xiaomi Android Phones Model 4,Xiaomi,Mobiles,Android Phones,13260,15300.41
+PROD0025,Xiaomi Android Phones Model 5,Xiaomi,Mobiles,Android Phones,14114,16951.19
+PROD0026,Xiaomi Android Phones Model 6,Xiaomi,Mobiles,Android Phones,20220,26264.0
+PROD0027,Xiaomi Android Phones Model 7,Xiaomi,Mobiles,Android Phones,43781,49256.68
+PROD0028,Xiaomi Android Phones Model 8,Xiaomi,Mobiles,Android Phones,30703,36040.73
+PROD0029,Xiaomi Android Phones Model 9,Xiaomi,Mobiles,Android Phones,12539,15153.65
+PROD0030,Xiaomi Android Phones Model 10,Xiaomi,Mobiles,Android Phones,25426,31584.54
+PROD0031,Nothing Android Phones Model 1,Nothing,Mobiles,Android Phones,14305,17021.61
+PROD0032,Nothing Android Phones Model 2,Nothing,Mobiles,Android Phones,37434,46063.68
+PROD0033,Nothing Android Phones Model 3,Nothing,Mobiles,Android Phones,31002,39026.7
+PROD0034,Nothing Android Phones Model 4,Nothing,Mobiles,Android Phones,25574,31195.27
+PROD0035,Nothing Android Phones Model 5,Nothing,Mobiles,Android Phones,44287,50507.11
+PROD0036,Nothing Android Phones Model 6,Nothing,Mobiles,Android Phones,20316,24997.65
+PROD0037,Nothing Android Phones Model 7,Nothing,Mobiles,Android Phones,21846,27436.95
+PROD0038,Nothing Android Phones Model 8,Nothing,Mobiles,Android Phones,34614,42620.86
+PROD0039,Nothing Android Phones Model 9,Nothing,Mobiles,Android Phones,14771,16613.45
+PROD0040,Nothing Android Phones Model 10,Nothing,Mobiles,Android Phones,43597,50112.75
+PROD0041,Realme Android Phones Model 1,Realme,Mobiles,Android Phones,35740,44221.47
+PROD0042,Realme Android Phones Model 2,Realme,Mobiles,Android Phones,31196,37376.93
+PROD0043,Realme Android Phones Model 3,Realme,Mobiles,Android Phones,15149,17339.41
+PROD0044,Realme Android Phones Model 4,Realme,Mobiles,Android Phones,11991,15116.57
+PROD0045,Realme Android Phones Model 5,Realme,Mobiles,Android Phones,33085,38751.82
+PROD0046,Realme Android Phones Model 6,Realme,Mobiles,Android Phones,26204,32748.54
+PROD0047,Realme Android Phones Model 7,Realme,Mobiles,Android Phones,39425,46824.45
+PROD0048,Realme Android Phones Model 8,Realme,Mobiles,Android Phones,38378,46817.35
+PROD0049,Realme Android Phones Model 9,Realme,Mobiles,Android Phones,31304,37215.28
+PROD0050,Realme Android Phones Model 10,Realme,Mobiles,Android Phones,29685,38050.62
+PROD0051,Apple iPhones Model 1,Apple,Mobiles,iPhones,117755,137427.98
+PROD0052,Apple iPhones Model 2,Apple,Mobiles,iPhones,91267,103171.35
+PROD0053,Apple iPhones Model 3,Apple,Mobiles,iPhones,55191,68259.06
+PROD0054,Apple iPhones Model 4,Apple,Mobiles,iPhones,85069,99071.9
+PROD0055,Apple iPhones Model 5,Apple,Mobiles,iPhones,119027,136636.29
+PROD0056,Apple iPhones Model 6,Apple,Mobiles,iPhones,106408,136085.37
+PROD0057,Apple iPhones Model 7,Apple,Mobiles,iPhones,67365,81689.19
+PROD0058,Apple iPhones Model 8,Apple,Mobiles,iPhones,60703,68077.88
+PROD0059,Apple iPhones Model 9,Apple,Mobiles,iPhones,113284,133899.79
+PROD0060,Apple iPhones Model 10,Apple,Mobiles,iPhones,88902,111807.4
+PROD0061,Dell Business Model 1,Dell,Laptops,Business,42016,48955.33
+PROD0062,Dell Business Model 2,Dell,Laptops,Business,69649,86484.08
+PROD0063,Dell Business Model 3,Dell,Laptops,Business,45035,53052.14
+PROD0064,Dell Business Model 4,Dell,Laptops,Business,56860,65125.85
+PROD0065,Dell Business Model 5,Dell,Laptops,Business,51129,58973.13
+PROD0066,Dell Business Model 6,Dell,Laptops,Business,79078,100937.08
+PROD0067,Dell Business Model 7,Dell,Laptops,Business,70488,88604.96
+PROD0068,Dell Business Model 8,Dell,Laptops,Business,57108,72522.51
+PROD0069,Dell Business Model 9,Dell,Laptops,Business,42721,51974.8
+PROD0070,Dell Business Model 10,Dell,Laptops,Business,43007,54833.84
+PROD0071,HP Business Model 1,HP,Laptops,Business,71883,90752.14
+PROD0072,HP Business Model 2,HP,Laptops,Business,69674,78477.88
+PROD0073,HP Business Model 3,HP,Laptops,Business,57864,66741.6
+PROD0074,HP Business Model 4,HP,Laptops,Business,48445,61315.76
+PROD0075,HP Business Model 5,HP,Laptops,Business,85552,111212.22
+PROD0076,HP Business Model 6,HP,Laptops,Business,37798,48118.22
+PROD0077,HP Business Model 7,HP,Laptops,Business,57207,66077.35
+PROD0078,HP Business Model 8,HP,Laptops,Business,63381,76565.36
+PROD0079,HP Business Model 9,HP,Laptops,Business,35981,45052.22
+PROD0080,HP Business Model 10,HP,Laptops,Business,70472,81782.51
+PROD0081,Lenovo Business Model 1,Lenovo,Laptops,Business,38478,44667.55
+PROD0082,Lenovo Business Model 2,Lenovo,Laptops,Business,69556,81527.4
+PROD0083,Lenovo Business Model 3,Lenovo,Laptops,Business,41855,52434.77
+PROD0084,Lenovo Business Model 4,Lenovo,Laptops,Business,76769,92541.66
+PROD0085,Lenovo Business Model 5,Lenovo,Laptops,Business,86887,103598.21
+PROD0086,Lenovo Business Model 6,Lenovo,Laptops,Business,44327,55199.95
+PROD0087,Lenovo Business Model 7,Lenovo,Laptops,Business,39270,48094.03
+PROD0088,Lenovo Business Model 8,Lenovo,Laptops,Business,77381,88380.2
+PROD0089,Lenovo Business Model 9,Lenovo,Laptops,Business,36138,42610.63
+PROD0090,Lenovo Business Model 10,Lenovo,Laptops,Business,67086,85776.64
+PROD0091,Asus Gaming Model 1,Asus,Laptops,Gaming,135843,163347.91
+PROD0092,Asus Gaming Model 2,Asus,Laptops,Gaming,138889,164405.57
+PROD0093,Asus Gaming Model 3,Asus,Laptops,Gaming,123574,144925.45
+PROD0094,Asus Gaming Model 4,Asus,Laptops,Gaming,100178,118480.82
+PROD0095,Asus Gaming Model 5,Asus,Laptops,Gaming,96352,108339.13
+PROD0096,Asus Gaming Model 6,Asus,Laptops,Gaming,117212,143748.51
+PROD0097,Asus Gaming Model 7,Asus,Laptops,Gaming,75251,96331.28
+PROD0098,Asus Gaming Model 8,Asus,Laptops,Gaming,92405,111973.63
+PROD0099,Asus Gaming Model 9,Asus,Laptops,Gaming,116883,140814.61
+PROD0100,Asus Gaming Model 10,Asus,Laptops,Gaming,132391,163613.16
+PROD0101,MSI Gaming Model 1,MSI,Laptops,Gaming,92202,105198.82
+PROD0102,MSI Gaming Model 2,MSI,Laptops,Gaming,143065,168407.11
+PROD0103,MSI Gaming Model 3,MSI,Laptops,Gaming,108845,130000.91
+PROD0104,MSI Gaming Model 4,MSI,Laptops,Gaming,115654,142195.55
+PROD0105,MSI Gaming Model 5,MSI,Laptops,Gaming,138572,178015.87
+PROD0106,MSI Gaming Model 6,MSI,Laptops,Gaming,141911,163116.74
+PROD0107,MSI Gaming Model 7,MSI,Laptops,Gaming,109431,126109.4
+PROD0108,MSI Gaming Model 8,MSI,Laptops,Gaming,113600,131865.12
+PROD0109,MSI Gaming Model 9,MSI,Laptops,Gaming,122372,141868.21
+PROD0110,MSI Gaming Model 10,MSI,Laptops,Gaming,94664,122173.23
+PROD0111,Acer Gaming Model 1,Acer,Laptops,Gaming,124097,155876.79
+PROD0112,Acer Gaming Model 2,Acer,Laptops,Gaming,84989,105535.1
+PROD0113,Acer Gaming Model 3,Acer,Laptops,Gaming,143191,176245.77
+PROD0114,Acer Gaming Model 4,Acer,Laptops,Gaming,134838,167201.78
+PROD0115,Acer Gaming Model 5,Acer,Laptops,Gaming,65280,76949.69
+PROD0116,Acer Gaming Model 6,Acer,Laptops,Gaming,113149,142303.21
+PROD0117,Acer Gaming Model 7,Acer,Laptops,Gaming,149553,189189.93
+PROD0118,Acer Gaming Model 8,Acer,Laptops,Gaming,74314,95590.52
+PROD0119,Acer Gaming Model 9,Acer,Laptops,Gaming,94807,107257.1
+PROD0120,Acer Gaming Model 10,Acer,Laptops,Gaming,90614,106514.44
+PROD0121,LG LED TVs Model 1,LG,Televisions,LED TVs,19380,24819.98
+PROD0122,LG LED TVs Model 2,LG,Televisions,LED TVs,44029,53420.62
+PROD0123,LG LED TVs Model 3,LG,Televisions,LED TVs,33117,37987.07
+PROD0124,LG LED TVs Model 4,LG,Televisions,LED TVs,55833,70373.64
+PROD0125,LG LED TVs Model 5,LG,Televisions,LED TVs,47095,56007.12
+PROD0126,LG LED TVs Model 6,LG,Televisions,LED TVs,63558,77446.42
+PROD0127,LG LED TVs Model 7,LG,Televisions,LED TVs,60004,74042.04
+PROD0128,LG LED TVs Model 8,LG,Televisions,LED TVs,46275,52106.15
+PROD0129,LG LED TVs Model 9,LG,Televisions,LED TVs,41214,52171.28
+PROD0130,LG LED TVs Model 10,LG,Televisions,LED TVs,59108,67123.92
+PROD0131,Samsung LED TVs Model 1,Samsung,Televisions,LED TVs,24768,29839.06
+PROD0132,Samsung LED TVs Model 2,Samsung,Televisions,LED TVs,18487,21238.34
+PROD0133,Samsung LED TVs Model 3,Samsung,Televisions,LED TVs,35565,41024.06
+PROD0134,Samsung LED TVs Model 4,Samsung,Televisions,LED TVs,33580,40195.15
+PROD0135,Samsung LED TVs Model 5,Samsung,Televisions,LED TVs,33749,40480.53
+PROD0136,Samsung LED TVs Model 6,Samsung,Televisions,LED TVs,65768,81492.15
+PROD0137,Samsung LED TVs Model 7,Samsung,Televisions,LED TVs,48310,56275.79
+PROD0138,Samsung LED TVs Model 8,Samsung,Televisions,LED TVs,20966,23736.21
+PROD0139,Samsung LED TVs Model 9,Samsung,Televisions,LED TVs,22931,27851.89
+PROD0140,Samsung LED TVs Model 10,Samsung,Televisions,LED TVs,35222,40670.85
+PROD0141,Sony LED TVs Model 1,Sony,Televisions,LED TVs,22919,26446.68
+PROD0142,Sony LED TVs Model 2,Sony,Televisions,LED TVs,62168,75016.78
+PROD0143,Sony LED TVs Model 3,Sony,Televisions,LED TVs,25819,32657.49
+PROD0144,Sony LED TVs Model 4,Sony,Televisions,LED TVs,67126,81966.0
+PROD0145,Sony LED TVs Model 5,Sony,Televisions,LED TVs,45135,51561.34
+PROD0146,Sony LED TVs Model 6,Sony,Televisions,LED TVs,25120,31482.4
+PROD0147,Sony LED TVs Model 7,Sony,Televisions,LED TVs,36805,44277.44
+PROD0148,Sony LED TVs Model 8,Sony,Televisions,LED TVs,29178,32811.57
+PROD0149,Sony LED TVs Model 9,Sony,Televisions,LED TVs,31433,36649.65
+PROD0150,Sony LED TVs Model 10,Sony,Televisions,LED TVs,53302,64317.69
+PROD0151,LG OLED TVs Model 1,LG,Televisions,OLED TVs,173696,217991.99
+PROD0152,LG OLED TVs Model 2,LG,Televisions,OLED TVs,166073,196279.31
+PROD0153,LG OLED TVs Model 3,LG,Televisions,OLED TVs,85865,100505.21
+PROD0154,LG OLED TVs Model 4,LG,Televisions,OLED TVs,196375,231379.26
+PROD0155,LG OLED TVs Model 5,LG,Televisions,OLED TVs,115742,146162.5
+PROD0156,LG OLED TVs Model 6,LG,Televisions,OLED TVs,124730,159248.76
+PROD0157,LG OLED TVs Model 7,LG,Televisions,OLED TVs,129252,165764.19
+PROD0158,LG OLED TVs Model 8,LG,Televisions,OLED TVs,199737,230680.06
+PROD0159,LG OLED TVs Model 9,LG,Televisions,OLED TVs,155446,176833.56
+PROD0160,LG OLED TVs Model 10,LG,Televisions,OLED TVs,121960,147831.87
+PROD0161,Sony OLED TVs Model 1,Sony,Televisions,OLED TVs,112836,138409.33
+PROD0162,Sony OLED TVs Model 2,Sony,Televisions,OLED TVs,123021,146694.7
+PROD0163,Sony OLED TVs Model 3,Sony,Televisions,OLED TVs,132051,163040.18
+PROD0164,Sony OLED TVs Model 4,Sony,Televisions,OLED TVs,72468,81344.09
+PROD0165,Sony OLED TVs Model 5,Sony,Televisions,OLED TVs,183793,227256.76
+PROD0166,Sony OLED TVs Model 6,Sony,Televisions,OLED TVs,186393,229038.85
+PROD0167,Sony OLED TVs Model 7,Sony,Televisions,OLED TVs,99306,121032.9
+PROD0168,Sony OLED TVs Model 8,Sony,Televisions,OLED TVs,75943,86759.07
+PROD0169,Sony OLED TVs Model 9,Sony,Televisions,OLED TVs,141697,175735.63
+PROD0170,Sony OLED TVs Model 10,Sony,Televisions,OLED TVs,132117,160030.47
+PROD0171,Boat Earbuds Model 1,Boat,Audio,Earbuds,2504,2986.84
+PROD0172,Boat Earbuds Model 2,Boat,Audio,Earbuds,7903,8865.26
+PROD0173,Boat Earbuds Model 3,Boat,Audio,Earbuds,9475,12262.89
+PROD0174,Boat Earbuds Model 4,Boat,Audio,Earbuds,11905,15031.21
+PROD0175,Boat Earbuds Model 5,Boat,Audio,Earbuds,5135,6580.36
+PROD0176,Boat Earbuds Model 6,Boat,Audio,Earbuds,9127,11345.61
+PROD0177,Boat Earbuds Model 7,Boat,Audio,Earbuds,1418,1779.86
+PROD0178,Boat Earbuds Model 8,Boat,Audio,Earbuds,11793,13483.82
+PROD0179,Boat Earbuds Model 9,Boat,Audio,Earbuds,5458,7044.32
+PROD0180,Boat Earbuds Model 10,Boat,Audio,Earbuds,3824,4665.41
+PROD0181,Sony Earbuds Model 1,Sony,Audio,Earbuds,3593,4303.7
+PROD0182,Sony Earbuds Model 2,Sony,Audio,Earbuds,8456,9783.09
+PROD0183,Sony Earbuds Model 3,Sony,Audio,Earbuds,6985,7865.93
+PROD0184,Sony Earbuds Model 4,Sony,Audio,Earbuds,9731,11700.09
+PROD0185,Sony Earbuds Model 5,Sony,Audio,Earbuds,7909,10046.09
+PROD0186,Sony Earbuds Model 6,Sony,Audio,Earbuds,2081,2428.83
+PROD0187,Sony Earbuds Model 7,Sony,Audio,Earbuds,3997,4972.74
+PROD0188,Sony Earbuds Model 8,Sony,Audio,Earbuds,9258,10511.25
+PROD0189,Sony Earbuds Model 9,Sony,Audio,Earbuds,8196,10523.35
+PROD0190,Sony Earbuds Model 10,Sony,Audio,Earbuds,3285,4027.76
+PROD0191,JBL Earbuds Model 1,JBL,Audio,Earbuds,4100,4975.83
+PROD0192,JBL Earbuds Model 2,JBL,Audio,Earbuds,913,1072.77
+PROD0193,JBL Earbuds Model 3,JBL,Audio,Earbuds,910,1125.66
+PROD0194,JBL Earbuds Model 4,JBL,Audio,Earbuds,853,1074.54
+PROD0195,JBL Earbuds Model 5,JBL,Audio,Earbuds,11321,13748.66
+PROD0196,JBL Earbuds Model 6,JBL,Audio,Earbuds,4565,5340.56
+PROD0197,JBL Earbuds Model 7,JBL,Audio,Earbuds,2634,3260.41
+PROD0198,JBL Earbuds Model 8,JBL,Audio,Earbuds,7383,8649.34
+PROD0199,JBL Earbuds Model 9,JBL,Audio,Earbuds,7557,8810.8
+PROD0200,JBL Earbuds Model 10,JBL,Audio,Earbuds,3829,4788.41
+PROD0201,Boat Bluetooth Speakers Model 1,Boat,Audio,Bluetooth Speakers,7974,9735.9
+PROD0202,Boat Bluetooth Speakers Model 2,Boat,Audio,Bluetooth Speakers,14840,18103.27
+PROD0203,Boat Bluetooth Speakers Model 3,Boat,Audio,Bluetooth Speakers,4637,5363.26
+PROD0204,Boat Bluetooth Speakers Model 4,Boat,Audio,Bluetooth Speakers,9163,11789.59
+PROD0205,Boat Bluetooth Speakers Model 5,Boat,Audio,Bluetooth Speakers,17066,21107.49
+PROD0206,Boat Bluetooth Speakers Model 6,Boat,Audio,Bluetooth Speakers,24393,28028.67
+PROD0207,Boat Bluetooth Speakers Model 7,Boat,Audio,Bluetooth Speakers,17470,22112.99
+PROD0208,Boat Bluetooth Speakers Model 8,Boat,Audio,Bluetooth Speakers,19797,22540.62
+PROD0209,Boat Bluetooth Speakers Model 9,Boat,Audio,Bluetooth Speakers,3963,4698.06
+PROD0210,Boat Bluetooth Speakers Model 10,Boat,Audio,Bluetooth Speakers,8300,10280.79
+PROD0211,JBL Bluetooth Speakers Model 1,JBL,Audio,Bluetooth Speakers,7575,8981.74
+PROD0212,JBL Bluetooth Speakers Model 2,JBL,Audio,Bluetooth Speakers,18010,21905.33
+PROD0213,JBL Bluetooth Speakers Model 3,JBL,Audio,Bluetooth Speakers,2619,3372.89
+PROD0214,JBL Bluetooth Speakers Model 4,JBL,Audio,Bluetooth Speakers,4395,5080.7
+PROD0215,JBL Bluetooth Speakers Model 5,JBL,Audio,Bluetooth Speakers,17447,19739.93
+PROD0216,JBL Bluetooth Speakers Model 6,JBL,Audio,Bluetooth Speakers,3182,3937.09
+PROD0217,JBL Bluetooth Speakers Model 7,JBL,Audio,Bluetooth Speakers,9506,11508.52
+PROD0218,JBL Bluetooth Speakers Model 8,JBL,Audio,Bluetooth Speakers,3881,4985.13
+PROD0219,JBL Bluetooth Speakers Model 9,JBL,Audio,Bluetooth Speakers,17017,21384.6
+PROD0220,JBL Bluetooth Speakers Model 10,JBL,Audio,Bluetooth Speakers,16411,19572.74
+PROD0221,Sony Bluetooth Speakers Model 1,Sony,Audio,Bluetooth Speakers,6563,7954.11
+PROD0222,Sony Bluetooth Speakers Model 2,Sony,Audio,Bluetooth Speakers,11650,14301.69
+PROD0223,Sony Bluetooth Speakers Model 3,Sony,Audio,Bluetooth Speakers,1970,2373.8
+PROD0224,Sony Bluetooth Speakers Model 4,Sony,Audio,Bluetooth Speakers,15054,19335.41
+PROD0225,Sony Bluetooth Speakers Model 5,Sony,Audio,Bluetooth Speakers,23969,27927.66
+PROD0226,Sony Bluetooth Speakers Model 6,Sony,Audio,Bluetooth Speakers,18172,20584.73
+PROD0227,Sony Bluetooth Speakers Model 7,Sony,Audio,Bluetooth Speakers,12592,15677.92
+PROD0228,Sony Bluetooth Speakers Model 8,Sony,Audio,Bluetooth Speakers,9632,11806.7
+PROD0229,Sony Bluetooth Speakers Model 9,Sony,Audio,Bluetooth Speakers,15178,18312.85
+PROD0230,Sony Bluetooth Speakers Model 10,Sony,Audio,Bluetooth Speakers,3942,4538.24
+PROD0231,Boat Chargers Model 1,Boat,Accessories,Chargers,1345,1668.41
+PROD0232,Boat Chargers Model 2,Boat,Accessories,Chargers,1209,1486.74
+PROD0233,Boat Chargers Model 3,Boat,Accessories,Chargers,753,924.92
+PROD0234,Boat Chargers Model 4,Boat,Accessories,Chargers,1406,1657.97
+PROD0235,Boat Chargers Model 5,Boat,Accessories,Chargers,1598,1952.95
+PROD0236,Boat Chargers Model 6,Boat,Accessories,Chargers,1849,2402.22
+PROD0237,Boat Chargers Model 7,Boat,Accessories,Chargers,1891,2307.22
+PROD0238,Boat Chargers Model 8,Boat,Accessories,Chargers,617,798.27
+PROD0239,Boat Chargers Model 9,Boat,Accessories,Chargers,1923,2217.39
+PROD0240,Boat Chargers Model 10,Boat,Accessories,Chargers,1217,1504.61
+PROD0241,Ambrane Chargers Model 1,Ambrane,Accessories,Chargers,1358,1544.53
+PROD0242,Ambrane Chargers Model 2,Ambrane,Accessories,Chargers,1171,1432.12
+PROD0243,Ambrane Chargers Model 3,Ambrane,Accessories,Chargers,811,994.97
+PROD0244,Ambrane Chargers Model 4,Ambrane,Accessories,Chargers,801,1016.43
+PROD0245,Ambrane Chargers Model 5,Ambrane,Accessories,Chargers,1163,1426.08
+PROD0246,Ambrane Chargers Model 6,Ambrane,Accessories,Chargers,1793,2056.13
+PROD0247,Ambrane Chargers Model 7,Ambrane,Accessories,Chargers,1889,2174.96
+PROD0248,Ambrane Chargers Model 8,Ambrane,Accessories,Chargers,1198,1377.86
+PROD0249,Ambrane Chargers Model 9,Ambrane,Accessories,Chargers,915,1158.9
+PROD0250,Ambrane Chargers Model 10,Ambrane,Accessories,Chargers,1148,1306.24
+PROD0251,Mi Power Banks Model 1,Mi,Accessories,Power Banks,3481,3952.29
+PROD0252,Mi Power Banks Model 2,Mi,Accessories,Power Banks,2468,3119.45
+PROD0253,Mi Power Banks Model 3,Mi,Accessories,Power Banks,3452,4382.87
+PROD0254,Mi Power Banks Model 4,Mi,Accessories,Power Banks,3899,4894.96
+PROD0255,Mi Power Banks Model 5,Mi,Accessories,Power Banks,1646,2137.84
+PROD0256,Mi Power Banks Model 6,Mi,Accessories,Power Banks,3546,4219.69
+PROD0257,Mi Power Banks Model 7,Mi,Accessories,Power Banks,2963,3334.22
+PROD0258,Mi Power Banks Model 8,Mi,Accessories,Power Banks,3481,4259.63
+PROD0259,Mi Power Banks Model 9,Mi,Accessories,Power Banks,2279,2753.99
+PROD0260,Mi Power Banks Model 10,Mi,Accessories,Power Banks,1046,1223.66
+PROD0261,Ambrane Power Banks Model 1,Ambrane,Accessories,Power Banks,1017,1294.41
+PROD0262,Ambrane Power Banks Model 2,Ambrane,Accessories,Power Banks,2999,3837.9
+PROD0263,Ambrane Power Banks Model 3,Ambrane,Accessories,Power Banks,703,819.67
+PROD0264,Ambrane Power Banks Model 4,Ambrane,Accessories,Power Banks,2492,2838.23
+PROD0265,Ambrane Power Banks Model 5,Ambrane,Accessories,Power Banks,1349,1519.9
+PROD0266,Ambrane Power Banks Model 6,Ambrane,Accessories,Power Banks,3001,3469.99
+PROD0267,Ambrane Power Banks Model 7,Ambrane,Accessories,Power Banks,2419,2765.08
+PROD0268,Ambrane Power Banks Model 8,Ambrane,Accessories,Power Banks,2946,3536.26
+PROD0269,Ambrane Power Banks Model 9,Ambrane,Accessories,Power Banks,2763,3258.55
+PROD0270,Ambrane Power Banks Model 10,Ambrane,Accessories,Power Banks,1461,1692.62

@@ -1,1 +1,21 @@
-Salesperson_ID	Employee_Name	Gender	Region	State	Manager	Monthly_Target	Joining_Date
+Salesperson_ID,Employee_Name,Gender,Region,Manager,Monthly_Target
+EMP001,Vasudha Bajwa,Female,Central,Amit Verma,1966349
+EMP002,Warda Walia,Female,North,Priya Nair,1264236
+EMP003,Ranbir Kala,Male,West,Priya Nair,1654018
+EMP004,Charvi Goel,Male,West,Rahul Sharma,1495887
+EMP005,Chandani Dutta,Male,South,Priya Nair,1968809
+EMP006,Nitara Pandey,Male,West,Priya Nair,1795135
+EMP007,Ekaraj Dey,Female,North,Amit Verma,1665881
+EMP008,Akshay Dhingra,Female,South,Priya Nair,1648646
+EMP009,Ekta Mital,Male,South,Priya Nair,1579154
+EMP010,Elijah Bhasin,Female,North,Amit Verma,1371177
+EMP011,Caleb Dey,Female,South,Priya Nair,1810517
+EMP012,Hamsini Date,Female,West,Amit Verma,1840118
+EMP013,Gayathri Atwal,Female,Central,Rahul Sharma,1380019
+EMP014,Xavier Badami,Female,Central,Rahul Sharma,1668217
+EMP015,Aadi Pillai,Male,Central,Amit Verma,1875963
+EMP016,Chanakya Yadav,Male,West,Priya Nair,1454426
+EMP017,Triveni Dixit,Male,South,Amit Verma,1591317
+EMP018,Akshay Balay,Male,East,Rahul Sharma,1363448
+EMP019,Mitali Chatterjee,Female,East,Rahul Sharma,1182552
+EMP020,Upma Mangal,Female,West,Priya Nair,930523
